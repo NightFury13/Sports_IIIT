@@ -155,13 +155,31 @@
 }
 
 .bg-img-1 {
-	background-image: url(../img/slider/banner.jpg);
+	background-image: url(../img/slider/Football.jpg);
 }
 .bg-img-2 {
-	background-image: url(../img/slider/affinity.jpeg);
+	background-image: url(../img/slider/Drogba_JP.jpg);
 }
 .bg-img-3 {
-	background-image: url(../img/slider/cinelli.jpeg);
+	background-image: url(../img/slider/Ground_net.jpg);
+}
+.bg-img-4 {
+	background-image: url(../img/slider/2015_1.jpeg);
+}
+.bg-img-5 {
+	background-image: url(../img/slider/2015_2.jpeg);
+}
+.bg-img-6 {
+	background-image: url(../img/slider/2015_3.jpeg);
+}
+.bg-img-7 {
+	background-image: url(../img/slider/2015_4.jpeg);
+}
+.bg-img-8 {
+	background-image: url(../img/slider/2015_5.jpeg);
+}
+.bg-img-9 {
+	background-image: url(../img/slider/2015_6.jpeg);
 }
 
 
